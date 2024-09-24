@@ -13,3 +13,18 @@ else:
  print('청소년')
 else:
   print('딸피')
+
+
+#else:
+#print
+#배터리 잔량을 입력하여 
+#0퍼 이하면 종료를 출력
+#20퍼이하면 저전력 모드를 출력
+# battery <= 10:
+# if bettery <= 10:
+#  print('종료')
+# elif bettery <= 10:
+#  print('충전 ㄱㄱ')
+# elif bettery <= 20:
+#  print('저전력 모드')
+ 
